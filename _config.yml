@@ -4,16 +4,16 @@ markdown: redcarpet
 
 # 作者信息
 author: 
-  name: 闫肃
-  email: yansu0711@gmail.com
-  link: http://yansu.org
-  weibo: http://weibo.com/yansu0711
-  github: http://github.com/suyan
+  name: 威廉小霍
+  email: ygf_1988@sina.com
+  link: http://williamxiaohuo.com
+  weibo: http://weibo.com/24543196
+  github: http://github.com/hereinuk
 
 # 站点信息
-title: 闫肃的博客 
-description: 闫肃的博客
-url: http://yansu.org
+title: 威廉小霍's 博客 
+description: 威廉小霍's 博客
+url: http://williamxiaohuo.com
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
@@ -22,12 +22,12 @@ favicon: /public/upload/gavatar/favicon.ico
 
 # google analytics 设置
 ga:
-  id: UA-43667383-1
-  url: yansu.org
+  id: UA-52812715-1
+  url: williamhoho
 
 # disqus 设置
 disqus:
-  shortname: suyan-zh
+  shortname: hereinuk
 
 # 主题设置，自动激活某个标签
 active: 技术
